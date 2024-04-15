@@ -1,0 +1,50 @@
+.main-container
+{
+  
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    margin: 20px;
+    background-color: gray;
+    border-radius: 10px;
+ 
+}
+
+#button
+{
+    margin: 20px; 
+}
+
+/*login page dessign*/
+
+.login-container
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    margin: 20px;
+    background-color: gray;
+    border-radius: 10px;
+}
+.form-group
+{
+    padding: 10px;
+    text-align: right; 
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.form-alignment
+{
+    /* height: 25vh;
+    width: 60vh; */
+    background-color: rgb(209, 203, 174);
+    border-style: double;
+    /* margin: 4rem; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+     
+}

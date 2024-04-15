@@ -1,0 +1,113 @@
+.container
+{
+    display: grid;
+    background-color: aquamarine;
+    border-style: double; 
+}
+.search-Events
+{
+    display: flex;
+    padding: 30px 500px;
+
+}
+
+.form-grid
+{
+    display: grid;
+    grid: 260px / auto auto auto auto;
+    grid-gap: 5px;
+    padding: 20px;
+    position: relative; 
+    
+}
+.event-container
+{
+    display: flex;
+}
+.event
+{
+    display: flex;
+    padding: 0px 100px;
+    font-style: normal;
+    font-size: large;
+    font-weight: bold;
+}
+
+.img
+{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin:2px;
+    border: 1px solid black;
+}
+.form-group
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1px;
+    text-align: right;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative;
+    top: 50px;
+    
+}
+
+.col-1
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-2
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-3
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-4
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-1-row-2
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-2-row-2
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-3-row-2
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
+.col-4-row2
+{
+    height: 250px;
+    width: 360px;
+    border: ridge;
+    border-radius: 5px;
+}
